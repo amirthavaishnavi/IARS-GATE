@@ -1,0 +1,154 @@
+student_id,branch,question_id,subject,topic,difficulty,marks,is_correct,time_taken_sec
+AMIRTHA01,CSE,Q0165,General Aptitude,Reading Comprehension,Medium,2,0,108.3
+AMIRTHA01,CSE,Q0003,General Aptitude,Reading Comprehension,Medium,2,1,94.3
+AMIRTHA01,CSE,Q0165,General Aptitude,Reading Comprehension,Medium,2,1,139.2
+AMIRTHA01,CSE,Q0160,General Aptitude,Reading Comprehension,Easy,2,1,82.0
+AMIRTHA01,CSE,Q0003,General Aptitude,Reading Comprehension,Medium,2,1,96.1
+AMIRTHA01,CSE,Q0003,General Aptitude,Reading Comprehension,Medium,2,0,62.8
+AMIRTHA01,CSE,Q0160,General Aptitude,Reading Comprehension,Easy,2,1,100.0
+AMIRTHA01,CSE,Q0006,CSE Core,Algorithms,Easy,2,1,77.6
+AMIRTHA01,CSE,Q0033,CSE Core,Algorithms,Medium,1,1,133.0
+AMIRTHA01,CSE,Q0066,CSE Core,Algorithms,Medium,1,1,94.9
+AMIRTHA01,CSE,Q0257,CSE Core,Algorithms,Medium,1,1,127.9
+AMIRTHA01,CSE,Q0020,CSE Core,Algorithms,Medium,2,1,98.5
+AMIRTHA01,CSE,Q0033,CSE Core,Algorithms,Medium,1,1,95.7
+AMIRTHA01,CSE,Q0010,CSE Core,Algorithms,Medium,1,1,104.3
+AMIRTHA01,CSE,Q0284,CSE Core,Operating Systems,Medium,2,0,113.8
+AMIRTHA01,CSE,Q0223,CSE Core,Operating Systems,Medium,1,0,197.1
+AMIRTHA01,CSE,Q0223,CSE Core,Operating Systems,Medium,1,0,175.5
+AMIRTHA01,CSE,Q0203,CSE Core,Operating Systems,Easy,1,1,66.0
+AMIRTHA01,CSE,Q0284,CSE Core,Operating Systems,Medium,2,0,164.5
+AMIRTHA01,CSE,Q0211,CSE Core,Operating Systems,Hard,1,0,54.3
+AMIRTHA01,CSE,Q0300,CSE Core,Operating Systems,Medium,2,0,169.2
+AMIRTHA01,CSE,Q0138,CSE Core,Operating Systems,Hard,2,0,112.8
+AMIRTHA01,CSE,Q0058,CSE Core,Operating Systems,Easy,2,0,138.3
+AMIRTHA01,CSE,Q0227,General Aptitude,Quantitative Reasoning,Easy,2,1,72.0
+AMIRTHA01,CSE,Q0247,General Aptitude,Quantitative Reasoning,Medium,2,0,118.6
+AMIRTHA01,CSE,Q0098,General Aptitude,Quantitative Reasoning,Medium,1,0,121.6
+AMIRTHA01,CSE,Q0291,General Aptitude,Quantitative Reasoning,Medium,2,1,117.7
+AMIRTHA01,CSE,Q0177,General Aptitude,Quantitative Reasoning,Medium,1,0,208.8
+AMIRTHA01,CSE,Q0219,CSE Core,Computer Networks,Easy,1,1,76.3
+AMIRTHA01,CSE,Q0143,CSE Core,Computer Networks,Medium,2,1,85.4
+AMIRTHA01,CSE,Q0075,CSE Core,Computer Networks,Hard,1,0,124.9
+AMIRTHA01,CSE,Q0092,CSE Core,Computer Networks,Easy,2,0,63.7
+AMIRTHA01,CSE,Q0092,CSE Core,Computer Networks,Easy,2,1,140.0
+AMIRTHA01,CSE,Q0140,Engineering Mathematics,Differential Equations,Hard,2,1,83.9
+AMIRTHA01,CSE,Q0308,Engineering Mathematics,Differential Equations,Medium,2,0,65.0
+AMIRTHA01,CSE,Q0140,Engineering Mathematics,Differential Equations,Hard,2,0,88.8
+AMIRTHA01,CSE,Q0140,Engineering Mathematics,Differential Equations,Hard,2,0,156.7
+AMIRTHA01,CSE,Q0140,Engineering Mathematics,Differential Equations,Hard,2,0,67.4
+AMIRTHA01,CSE,Q0014,Engineering Mathematics,Differential Equations,Medium,2,1,109.0
+AMIRTHA01,CSE,Q0014,Engineering Mathematics,Differential Equations,Medium,2,0,141.0
+AMIRTHA01,CSE,Q0140,Engineering Mathematics,Differential Equations,Hard,2,0,66.5
+AMIRTHA01,CSE,Q0308,Engineering Mathematics,Differential Equations,Medium,2,0,137.1
+AMIRTHA01,CSE,Q0024,General Aptitude,Analytical Reasoning,Easy,2,0,128.6
+AMIRTHA01,CSE,Q0194,General Aptitude,Analytical Reasoning,Hard,2,0,166.3
+AMIRTHA01,CSE,Q0087,General Aptitude,Analytical Reasoning,Medium,1,0,173.0
+AMIRTHA01,CSE,Q0310,General Aptitude,Analytical Reasoning,Hard,1,0,107.9
+AMIRTHA01,CSE,Q0087,General Aptitude,Analytical Reasoning,Medium,1,0,122.9
+AMIRTHA01,CSE,Q0087,General Aptitude,Analytical Reasoning,Medium,1,1,38.1
+AMIRTHA01,CSE,Q0024,General Aptitude,Analytical Reasoning,Easy,2,0,60.5
+AMIRTHA01,CSE,Q0194,General Aptitude,Analytical Reasoning,Hard,2,1,30.0
+AMIRTHA01,CSE,Q0024,General Aptitude,Analytical Reasoning,Easy,2,0,201.4
+AMIRTHA01,CSE,Q0204,CSE Core,Theory of Computation,Medium,1,1,134.9
+AMIRTHA01,CSE,Q0204,CSE Core,Theory of Computation,Medium,1,0,148.6
+AMIRTHA01,CSE,Q0144,CSE Core,Theory of Computation,Medium,2,0,121.7
+AMIRTHA01,CSE,Q0034,CSE Core,Theory of Computation,Medium,2,0,208.8
+AMIRTHA01,CSE,Q0174,CSE Core,Theory of Computation,Medium,1,0,94.4
+AMIRTHA01,CSE,Q0059,CSE Core,Theory of Computation,Medium,2,1,71.1
+AMIRTHA01,CSE,Q0122,CSE Core,Theory of Computation,Hard,1,0,158.3
+AMIRTHA01,CSE,Q0199,CSE Core,Theory of Computation,Easy,2,1,144.1
+AMIRTHA01,CSE,Q0199,CSE Core,Theory of Computation,Easy,2,0,157.9
+AMIRTHA01,CSE,Q0019,Engineering Mathematics,Discrete Mathematics,Hard,2,0,92.1
+AMIRTHA01,CSE,Q0215,Engineering Mathematics,Discrete Mathematics,Medium,1,0,159.0
+AMIRTHA01,CSE,Q0106,Engineering Mathematics,Discrete Mathematics,Medium,2,1,139.0
+AMIRTHA01,CSE,Q0106,Engineering Mathematics,Discrete Mathematics,Medium,2,0,131.5
+AMIRTHA01,CSE,Q0184,Engineering Mathematics,Discrete Mathematics,Medium,2,1,56.8
+AMIRTHA01,CSE,Q0022,CSE Core,Data Structures,Medium,2,1,128.2
+AMIRTHA01,CSE,Q0053,CSE Core,Data Structures,Medium,2,1,54.0
+AMIRTHA01,CSE,Q0052,CSE Core,Data Structures,Easy,2,1,33.5
+AMIRTHA01,CSE,Q0022,CSE Core,Data Structures,Medium,2,1,86.7
+AMIRTHA01,CSE,Q0022,CSE Core,Data Structures,Medium,2,1,144.8
+AMIRTHA01,CSE,Q0052,CSE Core,Data Structures,Easy,2,1,116.8
+AMIRTHA01,CSE,Q0052,CSE Core,Data Structures,Easy,2,0,103.3
+AMIRTHA01,CSE,Q0083,General Aptitude,Numerical Ability,Hard,2,1,86.4
+AMIRTHA01,CSE,Q0142,General Aptitude,Numerical Ability,Medium,2,1,104.9
+AMIRTHA01,CSE,Q0029,General Aptitude,Numerical Ability,Easy,1,1,108.4
+AMIRTHA01,CSE,Q0038,General Aptitude,Numerical Ability,Easy,2,1,44.4
+AMIRTHA01,CSE,Q0281,General Aptitude,Numerical Ability,Medium,2,1,120.0
+AMIRTHA01,CSE,Q0318,General Aptitude,Numerical Ability,Hard,2,0,114.9
+AMIRTHA01,CSE,Q0142,General Aptitude,Numerical Ability,Medium,2,1,143.5
+AMIRTHA01,CSE,Q0243,General Aptitude,Data Interpretation,Easy,2,1,119.2
+AMIRTHA01,CSE,Q0071,General Aptitude,Data Interpretation,Easy,2,1,50.4
+AMIRTHA01,CSE,Q0088,General Aptitude,Data Interpretation,Easy,2,1,100.9
+AMIRTHA01,CSE,Q0252,General Aptitude,Data Interpretation,Medium,2,1,47.5
+AMIRTHA01,CSE,Q0285,General Aptitude,Data Interpretation,Medium,2,0,152.4
+AMIRTHA01,CSE,Q0200,General Aptitude,Data Interpretation,Hard,2,1,95.8
+AMIRTHA01,CSE,Q0037,General Aptitude,Data Interpretation,Easy,1,1,146.5
+AMIRTHA01,CSE,Q0091,CSE Core,DBMS,Medium,1,1,142.0
+AMIRTHA01,CSE,Q0167,CSE Core,DBMS,Medium,2,0,74.7
+AMIRTHA01,CSE,Q0113,CSE Core,DBMS,Medium,2,1,55.5
+AMIRTHA01,CSE,Q0113,CSE Core,DBMS,Medium,2,0,96.8
+AMIRTHA01,CSE,Q0167,CSE Core,DBMS,Medium,2,0,52.2
+AMIRTHA01,CSE,Q0082,CSE Core,Computer Organization,Hard,2,0,153.3
+AMIRTHA01,CSE,Q0190,CSE Core,Computer Organization,Medium,2,1,140.1
+AMIRTHA01,CSE,Q0190,CSE Core,Computer Organization,Medium,2,1,48.2
+AMIRTHA01,CSE,Q0190,CSE Core,Computer Organization,Medium,2,1,82.8
+AMIRTHA01,CSE,Q0073,CSE Core,Computer Organization,Easy,2,1,123.1
+AMIRTHA01,CSE,Q0081,Engineering Mathematics,Calculus,Medium,2,1,86.8
+AMIRTHA01,CSE,Q0074,Engineering Mathematics,Calculus,Hard,2,1,69.1
+AMIRTHA01,CSE,Q0272,Engineering Mathematics,Calculus,Easy,2,1,42.7
+AMIRTHA01,CSE,Q0055,Engineering Mathematics,Calculus,Medium,1,1,63.2
+AMIRTHA01,CSE,Q0074,Engineering Mathematics,Calculus,Hard,2,1,97.4
+AMIRTHA01,CSE,Q0074,Engineering Mathematics,Calculus,Hard,2,1,103.5
+AMIRTHA01,CSE,Q0084,Engineering Mathematics,Calculus,Easy,2,1,84.3
+AMIRTHA01,CSE,Q0119,Engineering Mathematics,Numerical Methods,Easy,2,0,83.6
+AMIRTHA01,CSE,Q0119,Engineering Mathematics,Numerical Methods,Easy,2,0,192.0
+AMIRTHA01,CSE,Q0062,Engineering Mathematics,Numerical Methods,Medium,1,0,65.0
+AMIRTHA01,CSE,Q0062,Engineering Mathematics,Numerical Methods,Medium,1,0,95.1
+AMIRTHA01,CSE,Q0062,Engineering Mathematics,Numerical Methods,Medium,1,0,77.7
+AMIRTHA01,CSE,Q0119,Engineering Mathematics,Numerical Methods,Easy,2,0,192.7
+AMIRTHA01,CSE,Q0062,Engineering Mathematics,Numerical Methods,Medium,1,0,150.1
+AMIRTHA01,CSE,Q0119,Engineering Mathematics,Numerical Methods,Easy,2,1,135.9
+AMIRTHA01,CSE,Q0119,Engineering Mathematics,Numerical Methods,Easy,2,1,144.3
+AMIRTHA01,CSE,Q0228,General Aptitude,Verbal Ability,Easy,2,1,49.5
+AMIRTHA01,CSE,Q0121,General Aptitude,Verbal Ability,Hard,1,1,81.8
+AMIRTHA01,CSE,Q0241,General Aptitude,Verbal Ability,Medium,1,1,80.6
+AMIRTHA01,CSE,Q0183,General Aptitude,Verbal Ability,Medium,1,1,116.7
+AMIRTHA01,CSE,Q0065,General Aptitude,Verbal Ability,Easy,2,1,85.0
+AMIRTHA01,CSE,Q0065,General Aptitude,Verbal Ability,Easy,2,1,92.1
+AMIRTHA01,CSE,Q0183,General Aptitude,Verbal Ability,Medium,1,1,37.7
+AMIRTHA01,CSE,Q0141,Engineering Mathematics,Vector Calculus,Medium,2,0,59.6
+AMIRTHA01,CSE,Q0172,Engineering Mathematics,Vector Calculus,Hard,1,0,194.2
+AMIRTHA01,CSE,Q0141,Engineering Mathematics,Vector Calculus,Medium,2,0,63.8
+AMIRTHA01,CSE,Q0253,Engineering Mathematics,Vector Calculus,Medium,2,0,155.6
+AMIRTHA01,CSE,Q0172,Engineering Mathematics,Vector Calculus,Hard,1,0,132.1
+AMIRTHA01,CSE,Q0253,Engineering Mathematics,Vector Calculus,Medium,2,0,57.0
+AMIRTHA01,CSE,Q0079,Engineering Mathematics,Vector Calculus,Hard,2,0,72.8
+AMIRTHA01,CSE,Q0079,Engineering Mathematics,Vector Calculus,Hard,2,0,44.8
+AMIRTHA01,CSE,Q0079,Engineering Mathematics,Vector Calculus,Hard,2,0,56.1
+AMIRTHA01,CSE,Q0100,Engineering Mathematics,Linear Algebra,Easy,2,1,133.5
+AMIRTHA01,CSE,Q0270,Engineering Mathematics,Linear Algebra,Easy,1,1,149.3
+AMIRTHA01,CSE,Q0270,Engineering Mathematics,Linear Algebra,Easy,1,0,87.0
+AMIRTHA01,CSE,Q0100,Engineering Mathematics,Linear Algebra,Easy,2,1,115.1
+AMIRTHA01,CSE,Q0100,Engineering Mathematics,Linear Algebra,Easy,2,0,86.0
+AMIRTHA01,CSE,Q0100,Engineering Mathematics,Linear Algebra,Easy,2,1,67.4
+AMIRTHA01,CSE,Q0270,Engineering Mathematics,Linear Algebra,Easy,1,1,54.7
+AMIRTHA01,CSE,Q0239,Engineering Mathematics,Probability & Statistics,Medium,1,0,71.9
+AMIRTHA01,CSE,Q0237,Engineering Mathematics,Probability & Statistics,Easy,1,0,209.1
+AMIRTHA01,CSE,Q0180,Engineering Mathematics,Probability & Statistics,Hard,2,1,118.0
+AMIRTHA01,CSE,Q0312,Engineering Mathematics,Probability & Statistics,Medium,1,0,128.4
+AMIRTHA01,CSE,Q0229,Engineering Mathematics,Probability & Statistics,Medium,2,0,59.9
+AMIRTHA01,CSE,Q0239,Engineering Mathematics,Probability & Statistics,Medium,1,0,133.7
+AMIRTHA01,CSE,Q0239,Engineering Mathematics,Probability & Statistics,Medium,1,0,93.7
+AMIRTHA01,CSE,Q0229,Engineering Mathematics,Probability & Statistics,Medium,2,0,99.6
+AMIRTHA01,CSE,Q0229,Engineering Mathematics,Probability & Statistics,Medium,2,0,100.4
+AMIRTHA01,CSE,Q0187,Engineering Mathematics,Complex Variables,Medium,2,0,44.4
+AMIRTHA01,CSE,Q0283,Engineering Mathematics,Complex Variables,Medium,1,0,84.9
+AMIRTHA01,CSE,Q0187,Engineering Mathematics,Complex Variables,Medium,2,1,109.8
+AMIRTHA01,CSE,Q0231,Engineering Mathematics,Complex Variables,Hard,1,0,154.7
+AMIRTHA01,CSE,Q0231,Engineering Mathematics,Complex Variables,Hard,1,0,158.4
+AMIRTHA01,CSE,Q0187,Engineering Mathematics,Complex Variables,Medium,2,0,68.5
+AMIRTHA01,CSE,Q0231,Engineering Mathematics,Complex Variables,Hard,1,1,73.7
+AMIRTHA01,CSE,Q0231,Engineering Mathematics,Complex Variables,Hard,1,0,133.9
+AMIRTHA01,CSE,Q0187,Engineering Mathematics,Complex Variables,Medium,2,1,135.9

@@ -1,0 +1,408 @@
+{
+  "student_id": "AMIRTHA01",
+  "branch": "CSE",
+  "model_accuracy_on_holdout": 0.615,
+  "topic_performance_summary": [
+    {
+      "topic": "Vector Calculus",
+      "attempts": 9,
+      "accuracy": 0.0,
+      "avg_time": 92.889,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Probability & Statistics",
+      "attempts": 9,
+      "accuracy": 0.111,
+      "avg_time": 112.744,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Operating Systems",
+      "attempts": 9,
+      "accuracy": 0.111,
+      "avg_time": 132.389,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Analytical Reasoning",
+      "attempts": 9,
+      "accuracy": 0.222,
+      "avg_time": 114.3,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Numerical Methods",
+      "attempts": 9,
+      "accuracy": 0.222,
+      "avg_time": 126.267,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Differential Equations",
+      "attempts": 9,
+      "accuracy": 0.222,
+      "avg_time": 101.711,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Theory of Computation",
+      "attempts": 9,
+      "accuracy": 0.333,
+      "avg_time": 137.756,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Complex Variables",
+      "attempts": 9,
+      "accuracy": 0.333,
+      "avg_time": 107.133,
+      "status": "WEAK"
+    },
+    {
+      "topic": "DBMS",
+      "attempts": 5,
+      "accuracy": 0.4,
+      "avg_time": 84.24,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Quantitative Reasoning",
+      "attempts": 5,
+      "accuracy": 0.4,
+      "avg_time": 127.74,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Discrete Mathematics",
+      "attempts": 5,
+      "accuracy": 0.4,
+      "avg_time": 115.68,
+      "status": "WEAK"
+    },
+    {
+      "topic": "Computer Networks",
+      "attempts": 5,
+      "accuracy": 0.6,
+      "avg_time": 98.06,
+      "status": "MODERATE"
+    },
+    {
+      "topic": "Reading Comprehension",
+      "attempts": 7,
+      "accuracy": 0.714,
+      "avg_time": 97.529,
+      "status": "MODERATE"
+    },
+    {
+      "topic": "Linear Algebra",
+      "attempts": 7,
+      "accuracy": 0.714,
+      "avg_time": 99.0,
+      "status": "MODERATE"
+    },
+    {
+      "topic": "Computer Organization",
+      "attempts": 5,
+      "accuracy": 0.8,
+      "avg_time": 109.5,
+      "status": "STRONG"
+    },
+    {
+      "topic": "Data Interpretation",
+      "attempts": 7,
+      "accuracy": 0.857,
+      "avg_time": 101.814,
+      "status": "STRONG"
+    },
+    {
+      "topic": "Numerical Ability",
+      "attempts": 7,
+      "accuracy": 0.857,
+      "avg_time": 103.214,
+      "status": "STRONG"
+    },
+    {
+      "topic": "Data Structures",
+      "attempts": 7,
+      "accuracy": 0.857,
+      "avg_time": 95.329,
+      "status": "STRONG"
+    },
+    {
+      "topic": "Calculus",
+      "attempts": 7,
+      "accuracy": 1.0,
+      "avg_time": 78.143,
+      "status": "STRONG"
+    },
+    {
+      "topic": "Algorithms",
+      "attempts": 7,
+      "accuracy": 1.0,
+      "avg_time": 104.557,
+      "status": "STRONG"
+    },
+    {
+      "topic": "Verbal Ability",
+      "attempts": 7,
+      "accuracy": 1.0,
+      "avg_time": 77.629,
+      "status": "STRONG"
+    }
+  ],
+  "ml_predicted_risk_topics": {
+    "Vector Calculus": 0.207,
+    "Probability & Statistics": 0.302,
+    "Theory of Computation": 0.337,
+    "Differential Equations": 0.385,
+    "Discrete Mathematics": 0.423,
+    "Analytical Reasoning": 0.47
+  },
+  "related_topics_to_revise": {
+    "Vector Calculus": [
+      "Differential Equations",
+      "Discrete Mathematics"
+    ],
+    "Probability & Statistics": [
+      "Differential Equations",
+      "Discrete Mathematics"
+    ],
+    "Operating Systems": [
+      "Algorithms",
+      "Computer Networks"
+    ],
+    "Analytical Reasoning": [
+      "Reading Comprehension",
+      "Quantitative Reasoning"
+    ],
+    "Numerical Methods": [
+      "Differential Equations",
+      "Discrete Mathematics"
+    ],
+    "Differential Equations": [
+      "Discrete Mathematics",
+      "Calculus"
+    ],
+    "Theory of Computation": [
+      "Algorithms",
+      "Operating Systems"
+    ],
+    "Complex Variables": [
+      "Differential Equations",
+      "Discrete Mathematics"
+    ],
+    "DBMS": [
+      "Algorithms",
+      "Operating Systems"
+    ],
+    "Quantitative Reasoning": [
+      "Reading Comprehension",
+      "Analytical Reasoning"
+    ],
+    "Discrete Mathematics": [
+      "Differential Equations",
+      "Calculus"
+    ]
+  },
+  "revision_schedule": [
+    {
+      "topic": "Vector Calculus",
+      "status": "WEAK",
+      "accuracy": 0.0,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Probability & Statistics",
+      "status": "WEAK",
+      "accuracy": 0.11,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Operating Systems",
+      "status": "WEAK",
+      "accuracy": 0.11,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Analytical Reasoning",
+      "status": "WEAK",
+      "accuracy": 0.22,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Numerical Methods",
+      "status": "WEAK",
+      "accuracy": 0.22,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Differential Equations",
+      "status": "WEAK",
+      "accuracy": 0.22,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Theory of Computation",
+      "status": "WEAK",
+      "accuracy": 0.33,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Complex Variables",
+      "status": "WEAK",
+      "accuracy": 0.33,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "DBMS",
+      "status": "WEAK",
+      "accuracy": 0.4,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Quantitative Reasoning",
+      "status": "WEAK",
+      "accuracy": 0.4,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Discrete Mathematics",
+      "status": "WEAK",
+      "accuracy": 0.4,
+      "revise_on": "2026-09-02"
+    },
+    {
+      "topic": "Computer Networks",
+      "status": "MODERATE",
+      "accuracy": 0.6,
+      "revise_on": "2026-09-04"
+    },
+    {
+      "topic": "Reading Comprehension",
+      "status": "MODERATE",
+      "accuracy": 0.71,
+      "revise_on": "2026-09-04"
+    },
+    {
+      "topic": "Linear Algebra",
+      "status": "MODERATE",
+      "accuracy": 0.71,
+      "revise_on": "2026-09-04"
+    },
+    {
+      "topic": "Computer Organization",
+      "status": "STRONG",
+      "accuracy": 0.8,
+      "revise_on": "2026-09-08"
+    },
+    {
+      "topic": "Data Interpretation",
+      "status": "STRONG",
+      "accuracy": 0.86,
+      "revise_on": "2026-09-08"
+    },
+    {
+      "topic": "Numerical Ability",
+      "status": "STRONG",
+      "accuracy": 0.86,
+      "revise_on": "2026-09-08"
+    },
+    {
+      "topic": "Data Structures",
+      "status": "STRONG",
+      "accuracy": 0.86,
+      "revise_on": "2026-09-08"
+    },
+    {
+      "topic": "Calculus",
+      "status": "STRONG",
+      "accuracy": 1.0,
+      "revise_on": "2026-09-08"
+    },
+    {
+      "topic": "Algorithms",
+      "status": "STRONG",
+      "accuracy": 1.0,
+      "revise_on": "2026-09-08"
+    },
+    {
+      "topic": "Verbal Ability",
+      "status": "STRONG",
+      "accuracy": 1.0,
+      "revise_on": "2026-09-08"
+    }
+  ],
+  "recommended_next_questions": [
+    {
+      "question_id": "Q0007",
+      "subject": "CSE Core",
+      "topic": "Operating Systems",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question_id": "Q0090",
+      "subject": "CSE Core",
+      "topic": "Theory of Computation",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question_id": "Q0063",
+      "subject": "Engineering Mathematics",
+      "topic": "Discrete Mathematics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question_id": "Q0110",
+      "subject": "CSE Core",
+      "topic": "DBMS",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question_id": "Q0161",
+      "subject": "General Aptitude",
+      "topic": "Quantitative Reasoning",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question_id": "Q0130",
+      "subject": "CSE Core",
+      "topic": "DBMS",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question_id": "Q0118",
+      "subject": "General Aptitude",
+      "topic": "Quantitative Reasoning",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question_id": "Q0274",
+      "subject": "General Aptitude",
+      "topic": "Quantitative Reasoning",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question_id": "Q0276",
+      "subject": "General Aptitude",
+      "topic": "Quantitative Reasoning",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question_id": "Q0280",
+      "subject": "CSE Core",
+      "topic": "Theory of Computation",
+      "difficulty": "Easy",
+      "marks": 2
+    }
+  ]
+}

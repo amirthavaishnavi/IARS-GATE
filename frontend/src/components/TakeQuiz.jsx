@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://iars-gate-backend.onrender.com";
 
 // How many questions to sample per quiz session
 const QUIZ_LENGTH = 20;

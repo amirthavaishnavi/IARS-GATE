@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://iars-gate-backend.onrender.com";
 const BRANCHES = ["CSE", "Mechanical", "Civil", "Electrical", "ECE"];
 
 function Login({ onLogin }) {

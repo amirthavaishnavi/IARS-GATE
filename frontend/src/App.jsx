@@ -4,7 +4,7 @@ import TakeQuiz from "./components/TakeQuiz.jsx";
 import Login from "./components/login.jsx";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Cell, ResponsiveContainer } from "recharts";
 
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://iars-gate-backend.onrender.com";
 const BRANCHES = ["CSE", "Mechanical", "Civil", "Electrical", "ECE"];
 
 const STATUS_COLORS = { WEAK: "#b85042", MODERATE: "#e7b10a", STRONG: "#2c5f2d" };

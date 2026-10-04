@@ -3,7 +3,7 @@ const router = express.Router();
 const axios = require("axios");
 const Attempt = require("../models/Attempt");
 
-const ML_SERVICE_URL = process.env.ML_SERVICE_URL || "https://iars-gate-backend.onrender.com";
+const ML_SERVICE_URL = process.env.ML_SERVICE_URL || "https://iars-gate.onrender.com";
 
 router.get("/:studentId", async (req, res) => {
   try {

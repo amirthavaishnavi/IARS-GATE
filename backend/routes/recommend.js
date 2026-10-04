@@ -35,8 +35,14 @@ router.get("/:studentId", async (req, res) => {
     res.json(response.data);
   } catch (err) {
     const mlError = err.response?.data?.error || err.message;
-    console.error("ML service error:", mlError);
-    res.status(500).json({ error: mlError });
+    console.error("ML STATUS:", err.response?.status);
+console.error("ML DATA:", err.response?.data);
+console.error("ML ERROR:", err.message);
+
+const mlError =
+  err.response?.data?.error ||
+  err.response?.data ||
+  err.message;
   }
 });
 
